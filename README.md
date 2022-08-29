@@ -1,2 +1,0 @@
-# API for E-COMMERCE.
-##  Built with DJANGO and DJANGO REST FRAMEWORK.
